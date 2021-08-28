@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-#Resume
+# Resume
+
+## Alex Sanchez
 
 ## MIT Lincoln Laboratory, Research Summer Position, Current
 - Pulled metrics from Github API for the MIT's repositories. 
