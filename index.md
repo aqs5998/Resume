@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 
-# Resume
 
-## Alex Sanchez
+# Alex Sanchez
 ### Software Developer, Technical Graphic Artist
 
 ## MIT Lincoln Laboratory, Research Summer Position, Current
