@@ -5,6 +5,8 @@
 ## MIT Lincoln Laboratory, Research Summer Position, Current
 - Pulled metrics from Github API for the MIT's repositories. 
 
+## DevOps Software Developer, Boeing, August - November 2020
+- Designed, Maintained, and Debugged CI/CD Pipelines for Boeing's several repositories
 
 You can use the [editor on GitHub](https://github.com/aqs5998/showCase/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
