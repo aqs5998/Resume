@@ -3,6 +3,7 @@
 # Resume
 
 ## Alex Sanchez
+### Software Developer, Graphic Design Artist
 
 ## MIT Lincoln Laboratory, Research Summer Position, Current
 - Pulled metrics from Github API for the MIT's repositories. 
