@@ -1,5 +1,3 @@
-
-
 # Alex Sanchez
 ### Software Developer, Technical Graphic Artist
 
