@@ -1,4 +1,4 @@
-### Software Developer, Technical Graphic Artist
+### Software Developer
 
 ## MIT Lincoln Laboratory, Research Summer Position, Current
 - Pulled metrics from Github API for the MIT's repositories. 
