@@ -1,6 +1,12 @@
 ### Software Developer
 
-## MIT Lincoln Laboratory, Research Summer Position, Current
+## Boeing, Software Engineer, 12/2022 - Current
+-  Leveraged skills in Java, SQL, Spring, Hibernate, Javascript, and HTML to create and maintain over 25 diverse applications, ensuring optimal performance and user satisfaction.
+
+## Boeing, Software Engineer, 02/2022 - 12/2022
+- Update bit locations in a Python parser tool to allow the tool convert hex data to JSON data according to new specifications
+
+## MIT Lincoln Laboratory, Research Summer Position, June 2021 - Sept 2021
 - Pulled metrics from Github API for the MIT's repositories. 
 
 ## Full Stack Developer, Florida Department of Health, Tallahassee, FL - NOV 2020 - APR 2021
